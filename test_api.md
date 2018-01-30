@@ -54,7 +54,7 @@ desc|str|有用的描述信息
 id|int|用户id
 token|str|token
     一些补充
-    
+
 ## 登录
     用户登录
 > 
@@ -73,7 +73,7 @@ desc|str|有用的描述信息
 id|int|用户id
 token|str|token
     一些补充
-    
+
 ## 登出
     用户注销
 > 

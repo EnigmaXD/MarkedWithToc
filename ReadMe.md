@@ -1,5 +1,15 @@
 # 渲染Markdown，自动增加目录 [![Join the chat at https://gitter.im/zhengxiaoyao0716/chatroom](https://badges.gitter.im/zhengxiaoyao0716/chatroom.svg)](https://gitter.im/zhengxiaoyao0716/chatroom?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 ## Render markdown file, auto add a float-fold TOC.
+
+
+***
+### 2018-01-30 更新！
+停止更新！请移步 [Markplus - Markdown的全面强化](https://zhengxiaoyao0716.github.io/markplus/)
+
+虽然现在（01-30日）Markplus还不够完善，但我会继续完善维护下去，至于这个项目，大概不会再有更新了。谢谢大家的支持。
+***
+
+
 ***
 ## 一个工具性质的网页，可以渲染Markdown文件
 ## 并为H1、H2号标题自动增加一个浮动且自动折叠的TOC

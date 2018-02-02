@@ -3,20 +3,12 @@ function sendFile(files) {
         return;
     }
     var dropbox = document.getElementById('dropbox');
-      
-    var percent = document.createElement('div' );
-    dropbox.appendChild(percent);
 
-    var formData = new FormData();             // 创建一个表单对象FormData
-    formData.append( 'submit', '中文' );  // 往表单对象添加文本字段
-    
-    var fileNames = '' ;
-    
     for ( var i = 0; i < files.length; i++) {
         var file = files[i];    // file 对象有 name, size 属性
         
         if (file.name.indexOf(".md") == -1) continue;
-        
+
         var reader = new FileReader();  
         reader.onload = function()  
         {
